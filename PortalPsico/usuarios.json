@@ -1,0 +1,8 @@
+{
+    "admin@portal.com": {
+        "Nome": "Admin",
+        "Senha": "12345",
+        "Tipo": "Admin / Mestre",
+        "Status": "Ativo"
+    }
+}
